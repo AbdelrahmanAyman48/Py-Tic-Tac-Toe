@@ -76,5 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to [OpenAI](https://www.openai.com/) for inspiring the project.
 
 ---
-
-**X-O** - A Tic-Tac-Toe Game by Mahmoud Mansy ([GitHub](https://github.com/))
